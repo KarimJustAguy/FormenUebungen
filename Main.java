@@ -68,7 +68,7 @@ public class Main
 */
 
 
-/*       // TODO: Pyramide mit hohlraum!
+/*       // TODO: Pyramide mit Hohlraum!
         for (int zeile = 1; zeile <= eingabe; zeile++)
         {
             for (int space = 1; space <= eingabe - zeile; space++)
@@ -90,6 +90,7 @@ public class Main
         }*/
     }
 }
+
 
 
 
